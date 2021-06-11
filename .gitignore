@@ -102,5 +102,5 @@ CMakeLists.txt
 cmake-build-debug/
 a.exe
 Pilas.exe
-
+main.c
 
