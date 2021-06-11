@@ -96,3 +96,10 @@ Thumbs.db
 # Wilmer Files
 package-lock.json
 /project.xml
+
+#Ejecicios en c
+CMakeLists.txt
+cmake-build-debug/
+a.exe
+Pilas.c
+

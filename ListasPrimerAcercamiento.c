@@ -21,6 +21,8 @@ void printList(struct Node* aux)
     }
 }
 
+void insectar
+
 int main()
 {
     struct Node* head = NULL;
