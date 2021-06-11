@@ -101,5 +101,6 @@ package-lock.json
 CMakeLists.txt
 cmake-build-debug/
 a.exe
-Pilas.c
+Pilas.exe
+
 
