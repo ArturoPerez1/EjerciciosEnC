@@ -47,11 +47,6 @@ void printList(struct Node* aux)
 }
 
 
-
-
-
-
-
 int main(){
     system("cls");
     struct Node* head = NULL;
